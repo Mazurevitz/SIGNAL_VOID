@@ -14,6 +14,10 @@
 
 ---
 
+<p align="center">
+  <img src="gameplay.gif" alt="SIGNAL_VOID gameplay" width="800">
+</p>
+
 Neon-drenched combat at 60 FPS. Momentum-based movement, directional melee, dash i-frames, enemy projectiles cutting across the screen, and wave after wave of hostiles spawning around you. Kill fast or get overwhelmed.
 
 Built entirely in Python with a single dependency. No curses. No pygame. Just raw terminal output, Unicode rendering, and ANSI color.
